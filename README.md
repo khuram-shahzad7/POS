@@ -1,18 +1,18 @@
-# React Pos Management System
+# POS
 
-A simple ordering system using React, Redux Toolkit and MongoDB.
+Ordering system using React, Redux Toolkit and MongoDB.
 
 ## Features
 
-* Basic Stock Management.
+* Stock Management.
 * Filter products by categories.
 * Creating orders and invoicing created orders.
-* Ability to edit and delete products and orders according to authorization status.
+* Ability to edit, delete products and orders according to authorization status.
 
 ## Installation
 
 1. Node.js 16+
-2. Use npm package manager to install pos management on your computer.
+2. Use npm package manager to install on your computer.
 ```
 3.  cd /backend npm install
 ```
